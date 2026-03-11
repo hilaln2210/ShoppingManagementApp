@@ -4,7 +4,9 @@ An Android shopping-list manager with user authentication. Users register and lo
 
 ## Screenshots
 
-> Screenshots available after running on an Android emulator or physical device.
+| Login | Shopping List | Register |
+|---|---|---|
+| ![Login](screenshots/login.png) | ![Shopping List](screenshots/shopping_list.png) | ![Register](screenshots/register.png) |
 
 ## Features
 
