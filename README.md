@@ -1,5 +1,7 @@
 # Shopping Management App
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
 An Android shopping-list manager with user authentication. Users register and log in with a username and password, then manage a personal shopping list — adding products with quantities and removing them — with a Hebrew-language UI.
 
 ## Screenshots
